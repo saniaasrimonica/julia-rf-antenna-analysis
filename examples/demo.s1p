@@ -1,0 +1,5 @@
+! Synthetic example only, not laboratory measurement
+# GHZ S RI R 50
+2.30 0.30 0.10
+2.40 0.10 0.00
+2.50 0.30 -0.10
