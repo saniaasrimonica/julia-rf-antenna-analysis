@@ -1,0 +1,5 @@
+.DS_Store
+.julia/
+Manifest.toml
+*.jl.cov
+*.jl.mem

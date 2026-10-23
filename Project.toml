@@ -1,0 +1,5 @@
+name = "RFAntennaAnalysis"
+uuid = "5fbba7c8-3b0e-48a9-a409-849a6408a84d"
+version = "0.1.0"
+[compat]
+julia = "1.10"
